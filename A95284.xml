@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the transactions between Sir Charls Coot Kt. Lord President of Connaught in Ireland, and Owen-Roe-O-Neal; as it was reported to the Parliament from the Councel of State. Together with the votes of the House thereupon. Ordered by the Commons assembled in Parliament, that these several letters and articles, together with the votes of the House thereupon, be forthwith printed and published. Hen: Scobell, cleric. Parliamenti.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95284</idno>
+            <idno type="STC">Wing T3061</idno>
+            <idno type="STC">Thomason E571_33</idno>
+            <idno type="STC">ESTC R203838</idno>
+            <idno type="EEBO-CITATION">99863642</idno>
+            <idno type="PROQUEST">99863642</idno>
+            <idno type="VID">115852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the transactions between Sir Charls Coot Kt. Lord President of Connaught in Ireland, and Owen-Roe-O-Neal; as it was reported to the Parliament from the Councel of State. Together with the votes of the House thereupon. Ordered by the Commons assembled in Parliament, that these several letters and articles, together with the votes of the House thereupon, be forthwith printed and published. Hen: Scobell, cleric. Parliamenti.</title>
+                  <author>Mountrath, Charles Coote, Earl of, ca. 1610-1661.</author>
+                  <author>O'Neill, Owen Roe, 1590?-1649.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 28. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Connacht (Ireland) --  History --  17th century.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115852:1" rendition="simple:additions"/>
+            <p>A true Relation of the TRANSACTIONS BETWEEN Sir Charls Coot Kt.</p>
+            <p>Lord Preſident of <hi>Connaught</hi> in <hi>Ireland,</hi> AND <hi>Owen-Roe-O-Neal;</hi> As it was Reported to the Parliament FROM THE Councel of State. Together with The VOTES of the Houſe thereupon.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That theſe ſeveral Letters and Articles, together with the Votes of the Houſe thereupon, be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Parliment of <hi>England, Auguſt</hi> 28. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:115852:2"/>
+            <pb n="3" facs="tcp:115852:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 24 Auguſti, 1649.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>
+                  <hi>Mr. Robinſon</hi> Reports from the <hi>Councel of State,</hi> a Letter from Sir <hi>Charls Coot</hi> from <hi>London-derry,</hi> of the fifteenth of <hi>Auguſt, 1649.</hi> and another of the fourteenth in<g ref="char:EOLhyphen"/>ſtant, with Articles of Agreement between General <hi>Owen O Neal,</hi> and Colonel <hi>Richard Coot,</hi> in the behalf of Sir <hi>Charls Coot,</hi> Lord Preſident of <hi>Connaught,</hi> dated <hi>22 May, 1649.</hi> which were all this day read.</p>
+            </argument>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+               <lb/>
+THat the Vote of this Houſe of the centh of this moneth in the caſe of Colonel <hi>Monk,</hi> be communicated to Sir <hi>Charls Coot,</hi> as the Reſolution of this Houſe, and a direction for him how to behave himſelf in the Tranſ<g ref="char:EOLhyphen"/>action between him and <hi>Owen Roe O Neal.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+               <lb/>
+That this Houſe is well ſatisfied of the di<g ref="char:EOLhyphen"/>ligence,
+<pb n="4" facs="tcp:115852:3"/>faithfulneſs and integrity of Sir <hi>Charls Coot,</hi> in preſerving the Gariſon of <hi>London-derry</hi> for the Intereſt of the Commonwealth of <hi>England;</hi> and that it be ſpecially recommended to the Councel of State, to take care for Pro<g ref="char:EOLhyphen"/>viſions for him for the future, to prevent the like ſtraits, and encouragement of him and his Officers and Soldiers under his Com<g ref="char:EOLhyphen"/>mand.</p>
+         </div>
+         <div type="license">
+            <p>ORdered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That theſe ſeveral <hi>Letters</hi> and <hi>Ar<g ref="char:EOLhyphen"/>ticles,</hi> together with the <hi>Votes</hi> of the Houſe there<g ref="char:EOLhyphen"/>upon, be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:115852:3"/>
+            <head>A Copy of a Letter ſent from Sir <hi>Charls Coot,</hi> Lord Preſident of <hi>Cannaught,</hi> unto the Councel of State.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Have already given your Lordſhips an accompt of our condition till the one and twentieth of June laſt<g ref="char:punc">▪</g> ſince which I have labored under ſo many difficulties of all kindes, that I dare ſay ne<g ref="char:EOLhyphen"/>ver man comported with a more vexatious miſerable life then I have done; and truly, had not the wonder<g ref="char:EOLhyphen"/>ful providence of God gone along with me, and the Forces under my command, in all undertakings, we had long ſince been ruined and deſtroyed, and the In<g ref="char:EOLhyphen"/>tereſt of the Parliament of <hi>England</hi> in theſe parts wholly loſt, but by his providence both our ſelves and this place have hitherunto been preſerved, which hath given me this opportunity both to pour forth my complaints, and to give your Lordſhips an accompt of our preſent condition; in doing whereof, that I may not be over tedious, be pleaſed to underſtand, That immediately after ſending away of my laſt Letters, our Enemies began much to increaſe both in number and activity, inſomuch that they preſent<g ref="char:EOLhyphen"/>ly blockt up the paſſage by Sea as well as by Land, in<g ref="char:EOLhyphen"/>trenching themſelves upon the Crook of <hi>Ember</hi> in a Fort, wherein they planted thirteen pieces of Ord<g ref="char:EOLhyphen"/>nance, with about Two hundred Soldiers, cloſe by the Channel, through which all Ships and Boats bound for this place muſt neceſſarily paſs, ſo that no relief, without great hazard of being ſunk, could poſſibly come unto us: The next day after they begun to build thou-Fort, I ſent down Captain <hi>Key<g ref="char:EOLhyphen"/>ſars</hi>
+               <pb n="6" facs="tcp:115852:4"/>Friggot, by his own opportunity, with about One hundred Musketiers, to ſee whether he could pre<g ref="char:EOLhyphen"/>vent their deſign, by battering down their Fort, and taking their Ordnance, which he was very confident he could perform; but it ſeems they were ſo well pro<g ref="char:EOLhyphen"/>vided, that Captain <hi>Keiſar</hi> durſt not abide their ſhot, ſo that after a ſhort diſpute, he carried down both Ship and men to <hi>Culmore,</hi> having firſt received ſome ſhot through his Ship; ſo ſoon as he came to <hi>Culmore,</hi> he put the men into Boats, and made them believe that he would go down with them into <hi>Eniſhowen,</hi> and and help them to get victuals for their ſubſiſtance, during their ſtay from <hi>Derry,</hi> but he was no ſooner rid of them, but he preſently forſook both them and this place, for what end, or whether he is gone, I know not; but your Lordſhips may eaſily imagine, that it added much to our other many diſcourage<g ref="char:EOLhyphen"/>ments, to finde our ſelves deprived of the aſſiſtance of the onely Man of War then left in this place, and no queſtion added as much incouragement to our Ene<g ref="char:EOLhyphen"/>mits; ſo that I ſhall humbly deſire, that your Lord<g ref="char:EOLhyphen"/>ſhips would be pleaſed to call him to a ſtrict accompt for this unworthy carriage therein: Seven days after this diſcouragement, it pleaſed God Four hundred of the <hi>Cannaght</hi> Horſe, and One hundred and fifty Dra<g ref="char:EOLhyphen"/>goons, made a ſhift, through exceeding difficulties, to come hither to our relief, by which means, not<g ref="char:EOLhyphen"/>witſtanding the Fort at <hi>Sligo,</hi> was well provided both with Victual and Ammunition when they left it was afterwards treacherouſly betrayed by Major <hi>He<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>derſon</hi> to the Earl of <hi>Clanrickard,</hi> and that by the corruption of Sir <hi>Robert Stuart</hi> and his party: About four days after the Lord of <hi>Ar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> (who ſtiles him<g ref="char:EOLhyphen"/>ſelf
+<pb n="7" facs="tcp:115852:4"/>Commander in chief of His Majeſties Forces for the Province of <hi>Ulſter</hi>) with about Seven hundred Horſe and Dragoons, came hither to the aſſiſtance of our Beſiegers, who being joyned, were ſo exceeding numerous, that our Horſe began rather to be a burthen to us, then a benefit, being no ways able to fetch in proviſions for themſelves or us; in the mean while no means were left unaſſayed for the taking or ſurpriſing of this Gariſon, both by continually falling upon our horſe, whileſt they were graſing without the walls, by ſending in threatning Summons, and by ſcattering up and down moſt malicious Libels, both againſt my own perſon, and the late proceedings of the Parliament of <hi>England,</hi> with large promiſes and proffers of reward to all Officers and Soldiers that would deſert the Ser<g ref="char:EOLhyphen"/>vice, and come in unto them: During theſe ſtraits from without, we wanted not our diſcouragements within, for our ammunition and proviſions were much waſted, ſo that we had not above ſix weeks provi<g ref="char:EOLhyphen"/>ſions left; ſome of our Soldiers likewiſe, eſpecially of the new Supply, through diſaffection to the Par<g ref="char:EOLhyphen"/>liaments Intereſt, daily deſerting us, to the great diſ<g ref="char:EOLhyphen"/>couragement of our old Soldiers, and moſt of the reſt, ſo impatient of our preſent condition, by reaſon of our wants and hard duty, together with the great diſadvantages we have continually fought upon, that they have rather begot Murmurings and Mutinies in our old Soldiers, then any ways helped to allay them. Amidſt theſe great Difficulties aad Diſtractions, we endeavored to ſupport our languiſhing Spirits, by an expectation of ſpeedy and effectual Relief out of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> but finding that alſo hath ſo far failed us (not<g ref="char:EOLhyphen"/>withſtanding the wind hath ſeveral times favored us)
+<pb n="8" facs="tcp:115852:5"/>that we have not ſo much as heard out of <hi>England</hi> ſince the 14 of <hi>June</hi> laſt, we began to deſpair as to outward means, and had nothing left to relye upon, but that Providence of the Almighty, which hath hitherunto watched over us for our preſervation: whileſt we re<g ref="char:EOLhyphen"/>mained in this poſture, <hi>Owen O Neal</hi> (who with about Three thouſand Foot and Four hundred Horſe, was not above Fifty miles diſtant from us) freely made offer of his aſſiſtance for our Relief, profeſſing much affection to the Parliament of <hi>England,</hi> and an earneſt deſire to uſe the utmoſt of his endeavors for the main<g ref="char:EOLhyphen"/>tenance of their Intereſt in this Country; and to induce me to a belief that his expreſſions were real and hearry, he encloſed in his Expreſs, ſome Letters that he had received from Colonel <hi>Monk,</hi> whereby it appeared, that Colonel <hi>Monk</hi> had not onely accepted of his aſ<g ref="char:EOLhyphen"/>ſiſtance for the diverſion of the Enemy, but had alſo furniſhed him with Twenty Barrels of Powder for that purpoſe; and further aſſured him, That he ſhould neither want Powder, nor any thing elſe which he had in ſtore: And in Colonel <hi>Monk</hi>'s Letter in anſwer to the Lord <hi>Inchiquin,</hi> who charged him with joyning with <hi>Owen O Neal</hi> and his party (a Copy whereof was likewiſe incloſed) it was inſinuated, as if <hi>Owen O Neal</hi>'s ſubmiſſion to uſe the Parliaments power, were ready accepted by them. Now calling to minde that it is no new thing, for the moſt wiſe God to make uſe of wicked Inſtruments, to bring about a good Deſign for the advancement of his Glory; and finding our ſelves involved in this great Extremity, that we muſt either reſolve to be ruined and deſtroyed, and with us the Parliaments Intereſt in theſe parts, or elſe make uſe of this deſperate Remedy: for pre<g ref="char:EOLhyphen"/>vention
+<pb n="9" facs="tcp:115852:5"/>thereof, I called together a Councel of War, and adviſed with them, what was fit to be done; all things being duely conſidered, the reſult whereof was, That it was better to accept of the aſſiſtance of thoſe who proclaimed them<g ref="char:EOLhyphen"/>ſelves friends both to us, and the Intereſt we fight for, rather then to fall into the hands of thoſe that have both by word and deed declared themſelves malicious, bloody and enraged Enemies againſt both us, and thoſe we ſerve under; but yet with this wary proviſo, That we would uſe their aſſiſtance no longer then the approbation of the State of <hi>England</hi> ſhould go along with us therein, as your Lordſhips well per<g ref="char:EOLhyphen"/>ceive by the Articles at large, which I have herein encloſed: After this Agreement <hi>(viz.)</hi> upon the eight of this inſtant, <hi>Owen O Neal</hi> with Three thouſand Foot and Four thouſand Horſe, having marched through <hi>O Cahans</hi> Country, came in to our aſsiſtance, and en<g ref="char:EOLhyphen"/>camped themſelves before this City, on the other ſide of the water; the terror whereof (together with the activity of the Forces under my command, in falling upon the Rear of the Enemy, whileſt they marched towards <hi>Owen O Neal</hi>) had ſuch great influence upon our Enemies in <hi>Arnes,</hi> and the whole Country, that the next day Sir <hi>Robert Steuart</hi> and the Lord of <hi>Ardes,</hi> drew off as many men as they were able, and ſtole away privately towards <hi>Clareboyes:</hi> That day and the next I ſummoned ſeveral Gariſons, to wit, The <hi>New buildings,</hi> the <hi>New Fort, Elagh Caſtle,</hi> and <hi>Monge<g ref="char:EOLhyphen"/>valny,</hi> all which, together with their Artillery, Arms and Proviſions, are ſince delivered up unto me: I have ſince ſummoned the reſt of the Holds which (I
+<pb n="10" facs="tcp:115852:6"/>make no queſtion will be gained with much eaſe in a ſhort time (Colonel <hi>Mervyn</hi> before <hi>Owen O Neals</hi> falling down, was gone to the <hi>Omigh,</hi> whether through diſcontent, or what other reaſon, I know not, but about three or four days before he went thither, he led on the Enemies Horſe, and gave a deſperate charge upon our Horſe, not far from our walls, but (I thank God) we loſt none but ſix men, but killed at leaſt twenty of theirs: And yet for all that, <hi>Owen O Neal</hi> marching with his Army near to the <hi>Omigh<g ref="char:punc">▪</g>
+               </hi> which he might eaſily have taken and plun<g ref="char:EOLhyphen"/>dred, Colonel <hi>Mervyn</hi> was ſo impudent as to aſ<g ref="char:EOLhyphen"/>ſure him, he was a friend, and told him, He had al<g ref="char:EOLhyphen"/>ready agreed with me upon thirteen Articles, forged by himſelf. The tenth of this inſtant I received ſe<g ref="char:EOLhyphen"/>veral Letters out of the Country from all parties, to intreat me to accept of their Submiſſion, and to give them protections, ſome profeſſing their readineſs to obey my Authority without conditioning; others up<g ref="char:EOLhyphen"/>on Condition that they may not be forced to any thing againſt the ends of the Covenant; or other<g ref="char:EOLhyphen"/>wiſe, That they may have liberty to depart this Country with Bag and Baggage; to all which I returned Anſwers ſuitable to the Contents of the ſaid Letters. The thirteenth of this inſtant, five of the Countrey upon my protection, came hither to Treat with me for the whole; the iſſue whereof was, That all, excepting Commiſſion. Officers, as well Soldiers as Countreymen, ſub<g ref="char:EOLhyphen"/>mitting themſelves to the Authority of the Par<g ref="char:EOLhyphen"/>liament and State of ENGLAND, and delivering up their Arms and Ammunition, ſhould be ſuffered to
+<pb n="11" facs="tcp:115852:6"/>remain quietly and peaceably in this Country, they paying ſuch Contributions towards the maintenance of the Army, as was formerly laid upon them; as alſo ſuch Arrears as are due from them ſince their laſt payment: To which though they have through fear ſeemingly ſubmitted, yet I muſt acquaint your Lord<g ref="char:EOLhyphen"/>ſhips, That the Country is ſo exceedingly waſted of late, Firſt, by the party under <hi>George Monro;</hi> Se<g ref="char:EOLhyphen"/>condly, by the party under the Lord of <hi>Ardes;</hi> and laſtly, by the party under <hi>O Neal,</hi> as alſo by our burn<g ref="char:EOLhyphen"/>ing and deſtroying the Country round about this Ci<g ref="char:EOLhyphen"/>ty, and ſo many Inhabitants have with their ſtocks and families deſerted this Countrey, that truly un<g ref="char:EOLhyphen"/>leſs we ſhould utterly undo thoſe that remain here, we muſt for preſent expect but ſmall Contribution from them, towards the maintenance of the Army. And now, My Lords, having taken a view of our preſent condition, I need not tell your Lordſhips what an eaſie matter it were to ſetle this part of the Coun<g ref="char:EOLhyphen"/>trey in ſuch a poſture, as that we ſhall not need to fear the like Rebellions againſt the Parliament of <hi>England,</hi> as we have hitherto been ſubject unto, to wit, by ſending over immediately the Regiment of men ſo long ſince promiſed, and Recruits for the three Regiments of Foot, and two of Horſe already in theſe parts; as alſo ſuch Forces into the <hi>Clareboyes,</hi> as may divert their Forces there for falling upon us: And that I may not forget the Officers that have faithfully ſtuck to me in this laſt Defection (from whom I lately received a Letter by way of Remon<g ref="char:EOLhyphen"/>ſtrance, which I have here encloſed, expreſsing their hard Condition, and Remedies for the bettering
+<pb n="12" facs="tcp:115852:7"/>thereof, which they intreated me to repreſent effe<g ref="char:EOLhyphen"/>ctually to your Lordſhips) which I humbly deſire that their Requeſts, which I conceive to be modeſt and reaſonable, may be taken into ſpeedy conſide<g ref="char:EOLhyphen"/>ration, in ſuch ſort that they may at length enjoy the fruits of their Faithfulneſs and Long-ſufferings, and that they may with the more vigour and chearfulneſs hazard their lives, and all that is near and dear unto them, for the preſervation of the Parliaments Inte<g ref="char:EOLhyphen"/>reſt in theſe parts.</p>
+            <p>To their Deſires I ſhall onely humbly adde, That a conſiderable proportion of Ammunition of all ſorts may be ſpeedily ſent hither, as alſo Two hundred Caſe of Piſtols and Saddles, our Stores having been much waſted ſince theſe laſt Trou<g ref="char:EOLhyphen"/>bles.</p>
+            <p>Secondly, That for the better Reducing of the ſtrong Holds in this Country, a Morter-piece of four<g ref="char:EOLhyphen"/>teen Inches high, and about Three hundred Shells fitting for it, may be ſent hither with the firſt oppor<g ref="char:EOLhyphen"/>tunity.</p>
+            <p>Thirdly, That a Magazine of Bread-corn may be forthwith provided and ſent hither, ſo that this City may not always be in like hazard of ſtarving, as it lately was.</p>
+            <p>Fourthly, That two Frigots may be appointed con<g ref="char:EOLhyphen"/>ſtantly to attend this Coaſt, and that they may be ſo furniſhed with Proviſions and Ammunition, as that they may not be a burthen to this Garriſon, as thoſe formerly appointed for that Service have been.</p>
+            <p>Fifthly, That Chyrurgions Cheſts may be forth<g ref="char:EOLhyphen"/>with ſent hither, we having no Medicaments left in
+<pb n="13" facs="tcp:115852:7"/>theſe parts; as alſo Colours for the Foot Regi<g ref="char:EOLhyphen"/>ments.</p>
+            <p>My Lords, I am ſorry that I have been forced to be ſo over-tedious to your Lordſhips; but truly I have been ſo long deprived of an opportunity to expreſs my ſelf, and ſuch great alterations have ſo lately hap<g ref="char:EOLhyphen"/>pened in theſe parts, that I thought it my duty rather to be thus troubleſom, then to neglect the through-acquainting your Lordſhips with all the material paſ<g ref="char:EOLhyphen"/>ſages that this part affords. And becauſe I could not give your Lordſhips in writing ſuch an exact accompt as I could wiſh, I have therefore once more deſired this Gentleman Mr. <hi>King,</hi> who is fully acquainted with all paſſages of publique concernment, and who I am confident will give your Lordſhips a faithful ac<g ref="char:EOLhyphen"/>compt thereof, to wait upon your Lordſhips. And in regard I have not wherewithal to ſupport him in this Journey, I muſt humbly deſire, That your Lord<g ref="char:EOLhyphen"/>ſhips will be pleaſed to take him into conſideration, and to give him ſuch a Reward for his conſtant readi<g ref="char:EOLhyphen"/>neſs to ſerve the Parliaments Intereſt, as may encou<g ref="char:EOLhyphen"/>rage him therein; as alſo to return him back as ſoon as poſsibly may be with the Supplies above-mention<g ref="char:EOLhyphen"/>ed. And here (my Lords) I could willingly end, but that I cannot forbear to complain of the hard uſage I have met with continually, ſince I have been im<g ref="char:EOLhyphen"/>ployed in the Parliaments Service: And now having been twenty weeks beſieged by a numerous and en<g ref="char:EOLhyphen"/>raged Enemy, have had no Relief ſent unto us, ex<g ref="char:EOLhyphen"/>cept about Two hundred n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked men, and ill armed; many whereof being diſaffected to your Service, have ſince deſerted us; and Six hundred quarters of Wheat,
+<pb n="14" facs="tcp:115852:8"/>which certainly cannot be thought competent for ſuch a conſiderable place: which neglect of us, I would not willingly impute to your Lordſhips, but rather to ſome ſecret Enemies to the Parliaments Intereſt and my own perſon, who by ſecret underminings, and miſ<g ref="char:EOLhyphen"/>repreſentations of our Condition, divert the Relief intended for us: But I hope your Lordſhips having had ſuch conſtant experience of our faithfulneſs in your Service, will at length think us worthy of better en<g ref="char:EOLhyphen"/>couragements, or otherwiſe that I may be diſcharged from my Imployment in your Lordſhips Service. In confidence whereof, I remain,</p>
+            <closer>
+               <dateline>London-derry, <date>Aug. 15. 1649.</date>
+               </dateline>
+               <salute>My Lords,</salute> 
+               <signed>Your Lordſhips moſt humble Servant, <hi>CHA: COOT.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:115852:8"/>
+            <head>A Copy of another Letter from Sir <hi>Charls Coot</hi> to the Councel of State.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>BE pleaſed to underſtand, That General <hi>Owen O Neal</hi> being ſenſible, that the Parliaments In<g ref="char:EOLhyphen"/>tereſt in theſe parts was in danger to be wholly loſt, and the Forces under my command likely to be ruined and deſtroyed in defence thereof, by a nume<g ref="char:EOLhyphen"/>rous party of Engliſh and Scots, under the conduct of the Lord of <hi>Ardes,</hi> and other deſperate Enemies againſt the Parliament, was pleaſed freely to offer his aſsiſtance for our relief, which was accordingly ac<g ref="char:EOLhyphen"/>cepted by me, upon the Articles or Conditions here<g ref="char:EOLhyphen"/>in incloſed, which I purpoſe (God willing) inviola<g ref="char:EOLhyphen"/>bly to obſerve, till your Lordſhips pleaſure be known therein: And truly, I muſt ingenuouſly acknowledge, That I have hitherto found General <hi>O Neal,</hi> and the Army under his command, very punctual and faith<g ref="char:EOLhyphen"/>ful in all their promiſes and engagements that they have made unto me; and I make no queſtion, but they will continue ſo unto the end: In the mean while the General hath been pleaſed to communicate unto me certain Propoſals, which he ſaith were long ſince tranſmitted into <hi>England</hi> to the Parliament by Col: <hi>Munk;</hi> and though for his own part, and the prime Officers with him, they do not doubt but that the Propoſals are already yielded unto by the State; yet in regard their Army and party in all other parts of the Kingdom, cannot be ſatisfied therewith, until
+<pb n="16" facs="tcp:115852:9"/>the Parliament be pleaſed to declare themſelves more publiquely therein; He hath therefore deſired me humbly to intreat your Lordſhips to declare your Re<g ref="char:EOLhyphen"/>ſolution therein, and that with as much ſpeed as may be; to the end that he and his party might with the more vigor and chearfulneſs, endeavor the preſerva<g ref="char:EOLhyphen"/>tion of the Parliaments Intereſt in this Countrey, which I humbly deſire may be accordingly perform<g ref="char:EOLhyphen"/>ed, as that which I humbly conceive (with ſubmiſſion to your Lordſhips greater judgements) may much con<g ref="char:EOLhyphen"/>duce to the advancement of the Parliaments Intereſt in this County: And ſo I remain, My Lords,</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble and faithful Servant.</signed>
+               <dateline>London-derry, <date>Aug. 14. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honorable the Councel of State, ſitting at <hi>Whitehal Weſtminſter.</hi>
+            </trailer>
+         </div>
+         <div type="articles_of_truce">
+            <pb n="17" facs="tcp:115852:9"/>
+            <head>Articles condeſcended unto and agreed upon, by and between General <hi>Owen O Neal,</hi> Commander in chief of the Confederate Catholiques, of the one part; And Colo<g ref="char:EOLhyphen"/>nel <hi>Richard Coot,</hi> in the behalf of Sir <hi>Charls Coot,</hi> Lord Preſident of <hi>Connaught,</hi> of the other part: dated the Two and twentieth of <hi>May, 1649.</hi>
+            </head>
+            <p n="1">1. IT is Agreed and Concluded, That there be a Ceſſation of Arms, and all acts of Hoſtility be<g ref="char:EOLhyphen"/>tween the Parties and Forces under the Command of General <hi>Owen O Neal,</hi> and the Forces and Parties under the Command of Sir <hi>Charls Coot,</hi> Lord Preſi<g ref="char:EOLhyphen"/>dent of <hi>Connaught,</hi> Colonel <hi>Richard Coot</hi> and their par<g ref="char:EOLhyphen"/>ty, until the Parliament of <hi>Englands</hi> pleaſure be known unto him, to the Propoſitions preſented them by the ſaid General <hi>O Neal.</hi>
+            </p>
+            <p n="2">II. It is Concluded and Agreed, That both par<g ref="char:EOLhyphen"/>ties be mutually ingaged in War Offenſive and De<g ref="char:EOLhyphen"/>fenſive, againſt the Enemies of both or either, during the aforeſaid time; and that upon all occaſions in the interim, they be in a readineſs to ayd, aſſiſt and relieve one another, until a more abſolute Agreement be made and condeſcended unto by the Parliament of <hi>England;</hi> and that the Forces and Creaghts of either ſide, ſhall have free leave, permittance and liberty of acceſs, recourſe and retiration, in caſe of neceſſity, to the quarters of each other; and that the ſaid General <hi>O Neal</hi> ſhall be furniſhed from time to time with Am<g ref="char:EOLhyphen"/>munition, according to the beſt ability of the ſaid Lord Preſident and his party, to be employed onely againſt the Enemies of the Parliament of <hi>England,</hi> and ſhall have at preſent twenty Barrels of Powder,
+<pb n="18" facs="tcp:115852:10"/>with Match and Ball proportionable thereunto.</p>
+            <p n="3">III. It is concluded and agreed, If General <hi>O Neils</hi> anſwer from the Parliament ſhould prove a de<g ref="char:EOLhyphen"/>ny<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a receipt of ſuch an anſwer, both parties <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> to their former quarters, wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout any preju<g ref="char:EOLhyphen"/>dice from the one to the other, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourteen days t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e limited for the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>iration.</p>
+            <p n="4">IV. It is concluded and agreed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etwee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſaid par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, That the Creaghts o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Ul<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> or <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnaught,</hi> who are or will be reſident in the q<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ers belonging to the Lord Preſident, Colonel <hi>Richard Coot,</hi> or their p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty ſhall be admitted according to their accuſtomed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to contribute towards the maintenance of Ge<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral <hi>O Neals</hi> Army; and that likewiſe it ſhall be law<g ref="char:EOLhyphen"/>ful to the ſaid Lord Preſident and Colonel <hi>Richard Coot,</hi> to receive Contribution from ſuch of the ſaid Creaght as w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll voluntarily ag<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with them to that <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ct.</p>
+            <p n="5">V. It is ag<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed between both parties, That the a<g ref="char:EOLhyphen"/>foreſaid Lord P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſident, Colonel <hi>Richard Coot,</hi> and their party, will aſſord and give <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leave and liberty to any Ship or Shipping that with Coyn, Proviſion, Arms, Ammunition, or any other kin<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Commo<g ref="char:EOLhyphen"/>dities, may at any time during this Ceſſation, arrive at any H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbor, Port, Town or H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, within their Liberty, to the uſe of General <hi>Owen O Neal,</hi> and his Forces, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t admittance be given him, or ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he will appoint to <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch away the ſame, with ſeecu<g ref="char:EOLhyphen"/>rity and ſafety, and that th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid Shipping have leave <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o put at pleaſure without any pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>judice.</p>
+            <div type="part">
+               <pb n="19" facs="tcp:115852:10"/>
+               <head>By vertue <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Commiſsion to us directed from General <hi>O N<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>clude a Ceſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tion of Arms with <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and his party dated <hi>22 May. 1649.</hi>
+               </head>
+               <p>WE have concluded and agreed in the behalf of the ſaid General <hi>O Neal,</hi> That in caſe the S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>La<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>e,</hi> lately under the Lord P<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>, ſhall on the approach of the Army <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> during this Ceſſation, ſubmit to th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Preſidents Command, that then the ſaid Ge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <hi>O Neal</hi> before ſuch ſubmiſsion be admitted ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll receive for the pains taken by him, his Officers and Soldiers. Two thouſand pounds in moneys, and Three thouſand <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more then which be is not to demand, whereof nothi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ined from the Scots before the ſubmiſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>koned; or any quarters tak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n up w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>leſt the Army ſtays for the ſaid Moneys and Cattel.</p>
+               <p>It is furth<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r agreed and concluded, That what Holds or Caſtles ſhall be taken from the Scots afore<g ref="char:EOLhyphen"/>ſaid, during this Ceſſation, in the <hi>Laggane</hi> or there<g ref="char:EOLhyphen"/>abouts, ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll be diſpoſed of as the Lord Preſident ſhal think fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and if any Gariſons ſhall be taken in <hi>Con<g ref="char:EOLhyphen"/>naught</hi> o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> elſwhere, by the a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſtance of General <hi>O Neal,</hi> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t then <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed of as General <hi>O Neal</hi> ſhall t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nk <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
